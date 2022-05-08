@@ -1,0 +1,34 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	/*border:1px solid red;*/
+	padding: 5px;
+}
+#principal{
+	/*border: 1px solid blue;*/
+	width: 900px;
+}
+#menu{
+	background: #c5c5b2;
+	/*border: 1px solid red;*/
+	padding: 18px;
+}
+#conteudo{
+	background: #e8e8e9;
+	padding: 10px;
+}
+#rodape{
+	text-align: center;
+}
+h1{
+	color: #828271
+	font-size:1.2em;
+}
+.img-campanha{
+	border: 10px solid #c3c3ae ;
+}
